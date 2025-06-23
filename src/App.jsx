@@ -163,7 +163,7 @@ const App = () => {
     try {
       // Your web app's Firebase configuration - DIRECTLY FROM YOUR CONSOLE
     const firebaseConfig = {
-        apiKey: "AIzaSyDcEBOOctKNY368AGyrasHS3LCD0IjCvDw", 
+        apiKey: "AIzaSyDcEBOOctKNY368AGyrasHS3LCD0Ij****", 
         authDomain: "tidal-digit-462908-n9.firebaseapp.com",
         databaseURL: "https://tidal-digit-462908-n9-default-rtdb.firebaseio.com",
         projectId: "tidal-digit-462908-n9",
