@@ -395,6 +395,8 @@ Integrate with tools like Apache Kafka for handling high-volume, real-time netwo
 - Develop automated tests to ensure code quality and system reliability.
 
 
+![image_2025-06-25_082252450](https://github.com/user-attachments/assets/13634fa4-175f-49f7-bc3a-735d9d801fd5)
+
 
 
 
