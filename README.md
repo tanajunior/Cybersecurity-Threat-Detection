@@ -398,7 +398,7 @@ Integrate with tools like Apache Kafka for handling high-volume, real-time netwo
 ![image_2025-06-25_082252450](https://github.com/user-attachments/assets/13634fa4-175f-49f7-bc3a-735d9d801fd5)
 ![image_2025-06-25_082252450](https://github.com/tanajunior/Cybersecurity-Threat-Detection/blob/54d977a0f2a44cfde2bf8aac7d3f634976c2303a/%20Flow%20Anomaly%20Prediction.jpg)
 
-![image_2025-06-25_082252450]([https://github.com/user-attachments/assets/13634fa4-175f-49f7-bc3a-735d9d801fd5](https://github.com/tanajunior/Cybersecurity-Threat-Detection/blob/54d977a0f2a44cfde2bf8aac7d3f634976c2303a/Alerts%20Logs%20firestore%20database.png)
+![image_2025-06-25_082252450](https://github.com/tanajunior/Cybersecurity-Threat-Detection/blob/54d977a0f2a44cfde2bf8aac7d3f634976c2303a/Alerts%20Logs%20firestore%20database.png)
 
 ![image_2025-06-25_082252450](https://github.com/tanajunior/Cybersecurity-Threat-Detection/blob/54d977a0f2a44cfde2bf8aac7d3f634976c2303a/threat%20dashboard.png)
 
